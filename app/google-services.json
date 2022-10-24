@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656236032562",
+    "project_id": "workmanger-location-demo",
+    "storage_bucket": "workmanger-location-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656236032562:android:d65942102f4bab3f2c422b",
+        "android_client_info": {
+          "package_name": "com.peapi.workmanger_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656236032562-eq2ggevn4bo5vsbu3bendvnbfeg2tmbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peapi.workmanger_demo",
+            "certificate_hash": "b8dbfd914b44e8414e7967b26d106c2df0ab6dcc"
+          }
+        },
+        {
+          "client_id": "656236032562-c5qd8qil2ocirejfq4mf5d176g804khl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0pQwc2LxsDoSyqE4yDk0rodbEErGsUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656236032562-c5qd8qil2ocirejfq4mf5d176g804khl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
